@@ -4,4 +4,5 @@ It wasn't so difficult using [this](https://lionturkey.github.io/posts/rustwasm/
 
 ## Usage
 Build using `wasm-pack build --target web`
+
 Host using `python3 -m http.server` or whatever flavour of server you'd like
